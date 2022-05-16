@@ -14,16 +14,16 @@ This is the beginning draft of my personal professional profile. I hope to updat
 
 ###
 
-[link to the deployed website]
+[link to the deployed website](https://warwac.github.io/Portfolio/)
 
-[link to the code repository]
+[link to the code repository](https://github.com/warwac/Portfolio)
 
 ### Installation
 index and assets folder uploaded to the deployed webserver. The CSS files and images are in the assets folder. The deployed website was deployed using GitHub pages.
 
 # Screenshot
 
-![screenshot]portfolioscreen.pdf
+![screenshot](portfolioscreen.pdf)
 
 # References
 
