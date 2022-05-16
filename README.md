@@ -21,10 +21,6 @@ This is the beginning draft of my personal professional profile. I hope to updat
 ### Installation
 index and assets folder uploaded to the deployed webserver. The CSS files and images are in the assets folder. The deployed website was deployed using GitHub pages.
 
-# Screenshot
-
-![screenshot](chrome-extension://pmnphobdokkajkpbkajlaiooipfcpgio/editor.html)
-
 # References
 
 https://developer.mozilla.org/en-US/docs/Web/CSS/flex
