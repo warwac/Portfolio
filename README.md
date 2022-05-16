@@ -23,7 +23,7 @@ index and assets folder uploaded to the deployed webserver. The CSS files and im
 
 # Screenshot
 
-![screenshot](portfoliopng.png)
+![screenshot](image.png)
 
 # References
 
