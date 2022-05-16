@@ -23,6 +23,8 @@ index and assets folder uploaded to the deployed webserver. The CSS files and im
 
 # Screenshot
 
-![screenshot](https://user-images.githubusercontent.com/103985101/167340474-0c552bc7-39b9-4a5d-b4f7-1647d74755b2.png)
+![screenshot]image.png
 
 # References
+
+https://developer.mozilla.org/en-US/docs/Web/CSS/flex
