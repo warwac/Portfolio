@@ -1,6 +1,112 @@
 * {
     box-sizing: border-box;
-    padding: 10;
-    margin: 10;
+    padding: 0;
+    margin: 0;
 }
 
+body {
+    background-color: orange;
+}
+
+.header-img {
+    height: 78px;
+    width: 100%;
+    background: url('https://assets.simpleviewinc.com/simpleview/image/upload/c_fill,h_564,q_75,w_3000/v1/clients/knoxville/temp_565c9e5c-7855-4573-b989-06d006ac6bf7.png');
+    background-size: cover;
+    display: flex;
+  }
+
+a {
+    color: #746f6f;
+    text-decoration: underline;
+}
+
+header h1 {
+    display: inline-block;
+    font-size: 38px;
+    background-color: orange;
+}
+
+
+header nav {
+    padding-top: 15px;
+    margin-right: 20px;
+    float: right;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 20px;
+}
+
+header nav ul {
+    list-style-type: none;
+    background-color: orange;
+}
+
+header nav ul li {
+    display: inline-block;
+    margin-left: 25px;
+    background-color: orange;
+}
+
+.hero {
+    background-image: url("../images/warren");
+    height: 775px;
+    width: 100%;
+    margin-bottom: 25px;
+    background-size: cover;
+    background-position: center;
+}
+
+.footer-img {
+    height: 78px;
+    width: 100%;
+    background: url('https://assets.simpleviewinc.com/simpleview/image/upload/c_fill,h_564,q_75,w_3000/v1/clients/knoxville/temp_565c9e5c-7855-4573-b989-06d006ac6bf7.png');
+    background-size: cover;
+}
+
+body {
+    margin: 0;
+    
+  }
+  #wrapper {
+    display: flex;
+    flex-direction: column;
+    min-height: 64vh;
+    width: 75%;
+    font-size: 26px;
+    text-decoration: underline;
+    text-align: center;
+    
+  }
+ 
+  #body {
+    flex: 7;
+    border: 7px solid black;
+    display: flex;            
+    flex-direction: column; 
+    width: 55%;  
+    background-image: url("../images/background.webp");
+    background-size: 90vh;
+    background-position: top,left;
+    }
+
+#body2 {
+    
+    border: 1px solid black;
+    flex: 1;
+        
+}
+
+  #wrapper2 {
+    display: flex;
+    flex-direction: column;
+    flex: 1;
+    min-height: 22vh;
+    
+  }
+  
+  #footer2 {
+    min-height: 22vh;
+    background: white;
+    background-image: url("../images/background1.png");
+    background-size: 83vh;
+  }
